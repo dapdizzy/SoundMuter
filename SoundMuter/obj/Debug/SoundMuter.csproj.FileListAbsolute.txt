@@ -1,0 +1,10 @@
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\bin\Debug\SoundMuter.exe.config
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\bin\Debug\SoundMuter.exe
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\bin\Debug\SoundMuter.pdb
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.csprojResolveAssemblyReference.cache
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.Form1.resources
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.Properties.Resources.resources
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.csproj.GenerateResource.Cache
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.exe
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\obj\Debug\SoundMuter.pdb
+c:\users\pyatkov\documents\visual studio 2017\Projects\SoundMuter\SoundMuter\bin\Debug\RabbitMQ.Client.dll
